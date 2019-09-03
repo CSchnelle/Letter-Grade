@@ -1,5 +1,6 @@
-# Letter-Grade
-Description of the Problem
+# Letter-Grade Assignment
+Description of the Problem:
+
 Write a game program. The computer will ask the user to input a score. The program will
 first check if the score is valid (between 0 and 100, inclusive). If the score is not valid,
 print out the error message and exit the program. Otherwise, display the corresponding
