@@ -3,8 +3,8 @@
  * This program prompts the user to enter a score between 1-100 then prints a corresponding
  * letter grade. Part 1 uses if else statements and will print an error message for out of bounds entries and close the program.
  * Part 2 uses switch statements and will prompt the user to enter a score again if out of bounds.
- * @Catherine Schnelle
- * @09/02/19
+ * @Cat Schnelle
+ * 
  */
 import java.util.Scanner;
 public class CatherineSchnelle_Project03
