@@ -17,3 +17,12 @@ do so easily)
 score between 0 and 100 inclusive. After we study loop (Chapter 4), we can
 validate the input. As long as the user’s input is out of the legal range, the
 program will keep to prompt the user to enter a legal score
+
+
+How to run program:
+
+Install Java:
+https://java.com/en/download/help/download_options.xml
+
+Open CMD or Terminal and go to the directory where you've downloaded the Java file.
+Use the java command to execute the file: "java Project02.java" 
