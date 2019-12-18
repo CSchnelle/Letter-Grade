@@ -25,4 +25,4 @@ Install Java:
 https://java.com/en/download/help/download_options.xml
 
 Open CMD or Terminal and go to the directory where you've downloaded the Java file.
-Use the java command to execute the file: "java Project02.java" 
+Use the java command to execute the file: "java CatherineSchnelle_Project03.java"
